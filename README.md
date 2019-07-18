@@ -6,4 +6,5 @@ The article,'A Tutorial on Thompson Sampling',also shown as 'TS_tutorial' in fil
 
 All of the coding aim to promote the study of TS. 
 Hopefully, it helps all of TS learner, including me, to grap the knowledge faster.
+
 2019.7.18
