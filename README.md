@@ -1,7 +1,7 @@
 # Python Implementation of 'A Tutorial on Thompson Sampling'
 
  
-Python replication for 'A Tutorial on Thompson Sampling',, written by by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband and Zheng Wen in 2018. 
+Python replication for 'A Tutorial on Thompson Sampling', written by by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband and Zheng Wen in 2018. 
 
 > If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly. 
 
