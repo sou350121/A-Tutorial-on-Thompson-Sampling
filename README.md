@@ -1,4 +1,4 @@
-# Thompson_Sampling
+# Python Implementation of 'A Tutorial on Thompson Sampling'
 
   This file is mainly following the content of 'A Tutorial on Thompson Sampling', written by by Daniel J. Russo, Benjamin Van Roy, Abbas Kazerouni, Ian Osband and Zheng Wen in 2018. 
 
